@@ -1,0 +1,81 @@
+____Test ¹1____
+3 | 0 | 0 | 3 | 
+0 | 0 | 0 | 2 | 
+0 | 0 | 0 | 1 | 
+0 | 0 | 0 | 3 | 
+Returned result: 13
+Should return: 13
+Number of successful tests: 1/1
+-------------------------------
+____Test ¹2____
+3 | 0 | 0 | 3 | 
+0 | 0 | 0 | 0 | 
+0 | 0 | 0 | 0 | 
+3 | 0 | 0 | 3 | 
+Returned result: 2
+Should return: not (0, 1, 4, 13, 16)
+Number of successful tests: 2/2
+-------------------------------
+____Test ¹3____
+0 | 1 | 2 | 2 | 
+0 | 2 | 3 | 0 | 
+2 | 0 | 2 | 2 | 
+1 | 1 | 0 | 1 | 
+Returned result: 10
+Should return: 10
+Number of successful tests: 3/3
+-------------------------------
+____Test ¹4____
+3 | 1 | 1 | 3 | 
+1 | 2 | 2 | 1 | 
+2 | 1 | 1 | 2 | 
+3 | 2 | 2 | 3 | 
+Returned result: -1
+Should return: -1
+Number of successful tests: 4/4
+-------------------------------
+____Test ¹5____
+2 | 0 | 0 | 3 | 
+0 | 2 | 1 | 0 | 
+1 | 0 | 2 | 0 | 
+3 | 0 | 1 | 0 | 
+Returned result: 16
+Should return: 16
+Number of successful tests: 5/5
+-------------------------------
+____Test ¹6____
+-858993460 | -858993460 | -858993460 | -858993460 | 
+-858993460 | -858993460 | -858993460 | -858993460 | 
+-858993460 | -858993460 | -858993460 | -858993460 | 
+-858993460 | -858993460 | -858993460 | -858993460 | 
+Returned result: -1
+Should return: -1
+Number of successful tests: 6/6
+-------------------------------
+____Test ¹7____
+1 | 2 | 2 | 1 | 
+0 | 1 | 1 | 1 | 
+0 | 0 | 2 | 1 | 
+2 | 1 | 2 | 2 | 
+Returned result: 5
+Should return: 5
+Number of successful tests: 7/7
+-------------------------------
+____Test ¹8____
+3 | 3 | 3 | 3 | 
+3 | 3 | 3 | 3 | 
+3 | 3 | 3 | 3 | 
+3 | 3 | 3 | 3 | 
+Returned result: -1
+Should return: -1
+Number of successful tests: 8/8
+-------------------------------
+____Test ¹9____
+0 | 2 | 2 | 1 | 
+2 | 2 | 1 | 1 | 
+1 | 2 | 2 | 1 | 
+3 | 0 | 1 | 0 | 
+Returned result: 16
+Should return: 16
+Number of successful tests: 9/9
+-------------------------------
